@@ -1,0 +1,2 @@
+['remote "ssh-nas"']
+    url = ../ssh:ra_yz3622@zk2172.synology.me:/project/research.traffic/Data/DVC
