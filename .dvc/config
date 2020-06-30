@@ -1,2 +1,7 @@
+[core]
+    remote = myremote
 ['remote "ssh-nas"']
     url = ../ssh:ra_yz3622@zk2172.synology.me:/project/research.traffic/Data/DVC
+['remote "myremote"']
+    url = ssh://ra_ty2417@zk2172.synology.me/project/research.traffic/Data/DVC
+    ask_password = true
